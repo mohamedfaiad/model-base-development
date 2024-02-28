@@ -1,0 +1,9 @@
+ert_main.obj
+rtGetInf.obj
+rtGetNaN.obj
+rt_matrx.obj
+rt_nonfinite.obj
+rt_printf.obj
+separetly_excited_DC_motor.obj
+separetly_excited_DC_motor_data.obj
+sfun_spid_contc.obj
